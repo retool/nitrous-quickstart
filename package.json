@@ -3,7 +3,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "retool": "latest",
+    "retool": "latest"
   },
   "scripts": {
     "start": "server.js"
