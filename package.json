@@ -1,0 +1,12 @@
+{
+  "name": "retool",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "retool": "latest",
+  },
+  "scripts": {
+    "start": "server.js"
+  },
+  "engine": "node >= 0.10.0"
+}
